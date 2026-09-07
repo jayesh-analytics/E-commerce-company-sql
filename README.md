@@ -75,11 +75,11 @@ As a Data Analyst assigned to evaluate business performance, the task is to answ
 ### Vertical 1: Customer Insights & Geographic Breakdown
 - **Top Revenue Hub**: **Chennai** leads all locations with **₹3,890,000** in revenue across 34 orders (15 active buyers), representing ~19.7% of total company revenue.
 - **Top 5 Revenue Cities**:
-  1. Chennai: ₹3,890,000 (34 orders)
-  2. Lucknow: ₹2,206,000 (24 orders)
-  3. Jaipur: ₹2,102,000 (22 orders)
-  4. Delhi: ₹2,066,000 (28 orders)
-  5. Kolkata: ₹1,928,000 (22 orders)
+  -  Chennai: ₹3,890,000 (34 orders)
+  -  Lucknow: ₹2,206,000 (24 orders)
+  -  Jaipur: ₹2,102,000 (22 orders)
+  -  Delhi: ₹2,066,000 (28 orders)
+  -  Kolkata: ₹1,928,000 (22 orders)
 - **VIP Customer Segment**: 
   - **Romil Bora** (Customer ID 32, Chennai) is the highest spender at **₹889,000** across 6 orders.
   - **Rhea Issac** (Customer ID 17, Jaipur) is second with **₹864,000** across 4 orders.
